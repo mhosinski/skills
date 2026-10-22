@@ -49,6 +49,8 @@ Ask an agent to review a project and it gives you twenty findings at the same vo
 
 `/needle` asks for the single most consequential thing in the project that doesn't make sense. It won't always pick the right one. Usually you get a top pick and a few runners-up, and sometimes a runner-up is the real insight. Being forced to rank by impact is still what pulls those findings out of the pile.
 
+Repo structure and install flow borrowed from [mattpocock/skills](https://github.com/mattpocock/skills).
+
 ## License
 
 MIT
