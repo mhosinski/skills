@@ -1,0 +1,17 @@
+{
+  "name": "mhosinski",
+  "owner": {
+    "name": "Mike Hosinski",
+    "url": "https://github.com/mhosinski"
+  },
+  "description": "Mike Hosinski's agent skills, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "mhosinski-skills",
+      "source": "./",
+      "description": "Mike Hosinski's agent skills: <short list of what's inside>.",
+      "category": "productivity",
+      "keywords": ["skills", "agents"]
+    }
+  ]
+}
