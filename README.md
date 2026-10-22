@@ -1,7 +1,5 @@
 # Skills
 
-[![skills.sh](https://skills.sh/b/mhosinski/skills)](https://skills.sh/mhosinski/skills)
-
 Agent skills I actually use. They're small prompts, and they work with Claude Code, Codex, Cursor, and any agent that reads `SKILL.md` files. Take them and make them your own.
 
 ## Install
