@@ -9,7 +9,7 @@ Skills live in bucket folders under `skills/`:
 Every skill in a **promoted** bucket must have:
 
 1. A `SKILL.md` and an `agents/openai.yaml` (copy `.agents/skill-template/`).
-2. An entry in the top-level `README.md` Reference section, with the name linked to its `SKILL.md`.
+2. An entry under `## Skills` in the top-level `README.md`, with the name linked to its `SKILL.md`.
 3. An entry in its bucket's `README.md`.
 4. A path in `.claude-plugin/plugin.json`'s `skills` array.
 
