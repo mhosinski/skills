@@ -1,6 +1,6 @@
 {
   "name": "mhosinski-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Mike Hosinski's agent skills: <short list of what's inside>.",
   "author": {
     "name": "Mike Hosinski",
@@ -9,5 +9,5 @@
   "repository": "https://github.com/mhosinski/skills",
   "license": "MIT",
   "keywords": ["skills", "agents"],
-  "skills": []
+  "skills": ["./skills/engineering/needle"]
 }

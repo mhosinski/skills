@@ -6,7 +6,7 @@ Skills for code work.
 
 Reachable only when you type them.
 
-- _(none yet)_
+- **[needle](./needle/SKILL.md)**: Hunt for the needle: the one thing in this project that matters most and doesn't make sense.
 
 ## Model-invoked
 

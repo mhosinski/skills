@@ -46,21 +46,21 @@ To update, run `npx skills@latest update`.
 
 </details>
 
-Then type `/<your-first-skill>` in your agent. That's it.
+Then type `/needle` in your agent. That's it.
 
 ## Why These Skills Exist
 
 I built these to fix failure modes I kept hitting with coding agents. Each section is one problem and the skill that fixes it.
 
-### #1: <The Failure Mode, In The Reader's Words>
+### #1: Your Project Has Turned Into A Haystack
 
-> "<A quote from a respected book or engineer that frames the problem.>"
+> "<Quote>"
 >
 > <Author>, <Source>
 
-**The Problem**: <What goes wrong, concretely. One short paragraph.>
+**The Problem**: Ask an agent to review a project and it gives you twenty findings at the same volume. The one that matters is buried among the nits.
 
-**The Fix**: [`/<skill-name>`](./skills/<bucket>/<skill-name>/SKILL.md). <What it does and why it works. Say how often you use it.>
+**The Fix**: [`/needle`](./skills/engineering/needle/SKILL.md). It asks for the single most consequential thing in the project that doesn't make sense. It won't always pick the right one. Usually you get a top pick and a few runners-up, and sometimes a runner-up is the real insight. Being forced to rank by impact is still what pulls those findings out of the pile.
 
 ### #2: <Next Failure Mode>
 
@@ -86,7 +86,7 @@ Skills for code work.
 
 **User-invoked**
 
-- _(none yet)_
+- **[needle](./skills/engineering/needle/SKILL.md)**: Hunt for the needle: the one thing in this project that matters most and doesn't make sense.
 
 **Model-invoked**
 
