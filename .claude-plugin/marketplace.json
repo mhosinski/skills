@@ -9,7 +9,7 @@
     {
       "name": "mhosinski-skills",
       "source": "./",
-      "description": "Mike Hosinski's agent skills: <short list of what's inside>.",
+      "description": "Small agent skills that ask the right question, starting with /needle.",
       "category": "productivity",
       "keywords": ["skills", "agents"]
     }
