@@ -1,5 +1,5 @@
 interface:
   display_name: "Socratic"
-  short_description: "Learn how a piece of code actually works by predicting its behavior before the agent shows you."
+  short_description: "Learn how something in your project actually works by predicting its behavior before the agent shows you."
 policy:
   allow_implicit_invocation: false
