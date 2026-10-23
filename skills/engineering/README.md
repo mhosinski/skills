@@ -7,6 +7,7 @@ Skills for code work.
 Reachable only when you type them.
 
 - **[needle](./needle/SKILL.md)**: Hunt for the needle: the one thing in this project that matters most and doesn't make sense.
+- **[socratic](./socratic/SKILL.md)**: Learn how something in your project actually works by predicting its behavior before the agent shows you.
 
 ## Model-invoked
 

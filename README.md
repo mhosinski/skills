@@ -39,7 +39,7 @@ To update, run `npx skills@latest update`.
 
 </details>
 
-Then type `/needle` in your agent. That's it.
+Then type `/needle` or `/socratic` in your agent. That's it.
 
 ## Skills
 
@@ -48,6 +48,12 @@ Then type `/needle` in your agent. That's it.
 Ask an agent to review a project and it gives you twenty findings at the same volume. The one that matters is buried among the nits.
 
 `/needle` asks for the single most consequential thing in the project that doesn't make sense. Asking for one forces a ranking, and the ranking is what surfaces the finding that matters. The pick isn't the verdict. What it nearly chose is often worth as much.
+
+### [`/socratic`](./skills/engineering/socratic/SKILL.md): You read it and still don't know what it does
+
+Ask an agent to explain a module, a schema, or a contract and you get a confident summary. You nod along, and your mental model stays exactly as wrong as it was.
+
+`/socratic` flips it. You say what you think it does, then the agent shows you the lines that prove you right or wrong. The learning is in the gap between the prediction and the evidence, and the agent's one job is to protect that gap: one question per turn, and no answers before you've committed to one.
 
 Repo structure and install flow borrowed from [mattpocock/skills](https://github.com/mattpocock/skills).
 
