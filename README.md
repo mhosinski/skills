@@ -47,7 +47,7 @@ Then type `/needle` in your agent. That's it.
 
 Ask an agent to review a project and it gives you twenty findings at the same volume. The one that matters is buried among the nits.
 
-`/needle` asks for the single most consequential thing in the project that doesn't make sense. It won't always pick the right one. Usually you get a top pick and a few runners-up, and sometimes a runner-up is the real insight. Being forced to rank by impact is still what pulls those findings out of the pile.
+`/needle` asks for the single most consequential thing in the project that doesn't make sense. Asking for one forces a ranking, and the ranking is what surfaces the finding that matters. The pick isn't the verdict. What it nearly chose is often worth as much.
 
 Repo structure and install flow borrowed from [mattpocock/skills](https://github.com/mattpocock/skills).
 
