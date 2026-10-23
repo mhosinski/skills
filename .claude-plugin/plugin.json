@@ -1,7 +1,7 @@
 {
   "name": "mhosinski-skills",
-  "version": "0.2.1",
-  "description": "Small agent skills that ask the right question, starting with /needle.",
+  "version": "0.3.0",
+  "description": "Small agent skills that ask the right question: /needle and /socratic.",
   "author": {
     "name": "Mike Hosinski",
     "url": "https://github.com/mhosinski"
@@ -9,5 +9,5 @@
   "repository": "https://github.com/mhosinski/skills",
   "license": "MIT",
   "keywords": ["skills", "agents"],
-  "skills": ["./skills/engineering/needle"]
+  "skills": ["./skills/engineering/needle", "./skills/engineering/socratic"]
 }
